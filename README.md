@@ -13,5 +13,12 @@ python analyzer.py
 - Uses a regex to extract source IPs from "Failed password" entries
 - Counts attempts per IP and reports those above the threshold
 
+## Enhancements
+- GeoIP lookup for each suspicious IP using the ip-api.com API
+- CSV report export for easy sharing with a SOC team
+
+## Known limitation
+Private/internal IPs (e.g. 192.168.x.x) will not resolve to a real location.
+
 ## Note
 Includes a sample log for demonstration.

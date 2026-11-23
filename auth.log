@@ -5,3 +5,8 @@ Nov 23 10:01:07 server sshd[104]: Failed password for root from 192.168.1.50 por
 Nov 23 10:01:09 server sshd[105]: Failed password for user from 192.168.1.50 port 22 ssh2
 Nov 23 10:01:11 server sshd[106]: Failed password for root from 192.168.1.50 port 22 ssh2
 Nov 23 10:05:01 server sshd[107]: Failed password for root from 10.0.0.8 port 22 ssh2
+Nov 23 11:00:01 server sshd[108]: Failed password for root from 8.8.8.8 port 22 ssh2
+Nov 23 11:00:03 server sshd[109]: Failed password for root from 8.8.8.8 port 22 ssh2
+Nov 23 11:00:05 server sshd[110]: Failed password for root from 8.8.8.8 port 22 ssh2
+Nov 23 11:00:07 server sshd[111]: Failed password for root from 8.8.8.8 port 22 ssh2
+Nov 23 11:00:09 server sshd[112]: Failed password for root from 8.8.8.8 port 22 ssh2
